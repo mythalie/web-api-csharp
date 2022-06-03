@@ -23,7 +23,7 @@ namespace PrimeiraWebAPI.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<Album> Get()
+        public IEnumerable<AlbumResponse> Get()
         {
             return albumService.ListarTodos();
         }
@@ -38,7 +38,7 @@ namespace PrimeiraWebAPI.Controllers
             }
             else
             {
-                return NotFound(retorno.Mensagem);
+                return NotFound(retorno);
             }
         }
         [HttpGet("nome/{nomeParam}")]
@@ -52,7 +52,7 @@ namespace PrimeiraWebAPI.Controllers
             }
             else
             {
-                return NotFound(retorno.Mensagem);
+                return NotFound(retorno);
             }
         }
 
@@ -106,6 +106,5 @@ namespace PrimeiraWebAPI.Controllers
             return Ok();
 
         }
-
     }
 }

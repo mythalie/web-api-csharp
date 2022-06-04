@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeiraWebAPI", "PrimeiraWebAPI\PrimeiraWebAPI.csproj", "{CFE00FA8-9EA5-477F-BA05-67CCB40AD611}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeiraWebAPI", "PrimeiraWebAPI\PrimeiraWebAPI.csproj", "{CFE00FA8-9EA5-477F-BA05-67CCB40AD611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeiraWebAPI.Tests", "PrimeiraWebAPI.Tests\PrimeiraWebAPI.Tests.csproj", "{182DF3E4-D25E-459F-A8F1-BFC24544F79B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CFE00FA8-9EA5-477F-BA05-67CCB40AD611}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFE00FA8-9EA5-477F-BA05-67CCB40AD611}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFE00FA8-9EA5-477F-BA05-67CCB40AD611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{182DF3E4-D25E-459F-A8F1-BFC24544F79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182DF3E4-D25E-459F-A8F1-BFC24544F79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182DF3E4-D25E-459F-A8F1-BFC24544F79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182DF3E4-D25E-459F-A8F1-BFC24544F79B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

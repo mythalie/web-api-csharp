@@ -19,7 +19,7 @@ namespace ListaTarefas.Services
 
         public ServiceResponse<Tarefa> CadastrarNovo(TarefaCreateRequest model)
         {
-            if (model.Prioridade < 1 && model.Prioridade > 5)
+            if (model.Prioridade < 1 || model.Prioridade > 5)
             {
                 return new ServiceResponse<Tarefa>("Digite um número entre 1 e 5");
             }

@@ -58,15 +58,15 @@ namespace ListaTarefas.Tests.Services
         [Fact]
         public void Quando_PassadoTarefaInvalida_Deve_RetornarErro()
         {
-            var mensagemEsperada = "O Título é obrigatório!";
+            var mensagemEsperada = "Digite um número entre 1 e 5";
 
             // Preparando entrada
             var request = new TarefaCreateRequest()
             {
                 // Titulo inválido para provocar erro de validação
-                Titulo = "",
-                Descricao = "",
-                Prioridade = 0
+                Titulo = "Tarefa Test",
+                Descricao = "Test",
+                Prioridade = 6
             };
 
             // Executando

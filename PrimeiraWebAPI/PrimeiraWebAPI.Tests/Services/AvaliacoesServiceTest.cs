@@ -105,7 +105,8 @@ namespace PrimeiraWebAPI.Tests.Services
             {
                 Nome = "Album Test",
                 AnoLancamento = 1950,
-                Artista = "Artista Test"
+                Artista = "Artista Test",
+                AvaliacaoMedia = "5"
             };
             // Salvamos os dados no banco
             _dbContext.Add(album);

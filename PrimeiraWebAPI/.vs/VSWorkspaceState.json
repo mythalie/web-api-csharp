@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\PrimeiraWebAPI"
+    "\\PrimeiraWebAPI",
+    "\\PrimeiraWebAPI.Tests"
   ],
-  "SelectedNode": "\\PrimeiraWebAPI.sln",
+  "SelectedNode": "\\PrimeiraWebAPI",
   "PreviewInSolutionExplorer": false
 }

@@ -53,7 +53,8 @@ namespace PrimeiraWebAPI.Tests.Services
             {
                 Nome = "Album Test",
                 AnoLancamento = 1990,
-                Artista = "Artista Test"
+                Artista = "Artista Test",
+                AvaliacaoMedia = "5"
             };
 
             // Executando
@@ -63,6 +64,7 @@ namespace PrimeiraWebAPI.Tests.Services
             Assert.Equal(retorno.ObjetoRetorno.AnoLancamento, request.AnoLancamento);
             Assert.Equal(retorno.ObjetoRetorno.Artista, request.Artista);
             Assert.Equal(retorno.ObjetoRetorno.Nome, request.Nome);
+            Assert.Equal(retorno.ObjetoRetorno.AvaliacaoMedia, request.AvaliacaoMedia);
         }
 
         [Fact]
@@ -260,14 +262,16 @@ namespace PrimeiraWebAPI.Tests.Services
                     Nome = "Album Test 1",
                     AnoLancamento = 1990,
                     Artista = "Artista Test 1",
-                    Avaliacoes = ListaAvaliacoesStub()
+                    Avaliacoes = ListaAvaliacoesStub(),
+                    AvaliacaoMedia = "5"
                 },
                 new Album()
                 {
                     Nome = "Album Test 2",
                     AnoLancamento = 1991,
                     Artista = "Artista Test 2",
-                    Avaliacoes = ListaAvaliacoesStub()
+                    Avaliacoes = ListaAvaliacoesStub(),
+                    AvaliacaoMedia = "5"
                 }
             };
 

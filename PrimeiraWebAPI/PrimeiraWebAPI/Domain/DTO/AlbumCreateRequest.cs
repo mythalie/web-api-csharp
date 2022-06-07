@@ -11,6 +11,7 @@ namespace PrimeiraWebAPI.Domain.DTO
         public string Artista { get; set; }
         [Required]
         public int? AnoLancamento { get; set; }
+        public string AvaliacaoMedia { get; set; }
         //int? e Required????
         //Sem isso este erro nunca vai acontecer.
         //Com um int normal, o valor padrão vai sempre ser 0

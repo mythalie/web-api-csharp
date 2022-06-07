@@ -31,7 +31,8 @@ namespace PrimeiraWebAPI.Services
             {
                 Nome = model.Nome,
                 Artista = model.Artista,
-                AnoLancamento = model.AnoLancamento.Value
+                AnoLancamento = model.AnoLancamento.Value,
+                AvaliacaoMedia = model.AvaliacaoMedia,
             };
 
             _dbContext.Add(novoAlbum);

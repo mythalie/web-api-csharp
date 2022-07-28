@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uREA+ZS9kfOg73703WW/9gMQ8w0rTzeKGnwfoj5QyBYaBbcTsz2+H8fhG2ibgorik4xcRuUULj1t+YKYac4whw==",
+  "dgSpecHash": "/JHdUZOiQzWvLkX8b/KzphDCiNzh9duLWVyKhRSZQom7iWTmBQY5xD8CcrSTZR28voxLy8WI3Ys4aIQfoQECNQ==",
   "success": true,
-  "projectFilePath": "C:\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI.Tests\\PrimeiraWebAPI.Tests.csproj",
+  "projectFilePath": "C:\\Projetos\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI.Tests\\PrimeiraWebAPI.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mythalie.sandretti\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\mythalie.sandretti\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

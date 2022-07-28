@@ -7776,11 +7776,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI.Tests\\PrimeiraWebAPI.Tests.csproj",
+      "projectUniqueName": "C:\\Projetos\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI.Tests\\PrimeiraWebAPI.Tests.csproj",
       "projectName": "PrimeiraWebAPI.Tests",
-      "projectPath": "C:\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI.Tests\\PrimeiraWebAPI.Tests.csproj",
+      "projectPath": "C:\\Projetos\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI.Tests\\PrimeiraWebAPI.Tests.csproj",
       "packagesPath": "C:\\Users\\mythalie.sandretti\\.nuget\\packages\\",
-      "outputPath": "C:\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI.Tests\\obj\\",
+      "outputPath": "C:\\Projetos\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mythalie.sandretti\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7797,8 +7797,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI\\PrimeiraWebAPI.csproj": {
-              "projectPath": "C:\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI\\PrimeiraWebAPI.csproj"
+            "C:\\Projetos\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI\\PrimeiraWebAPI.csproj": {
+              "projectPath": "C:\\Projetos\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI\\PrimeiraWebAPI.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qpu6J4MYDSEGhbZNHPHRn3xLKf4uMuqL6UuPcpQjOkyc5nnluHDKpgr4BP4Ov21gHn1epjSu75Vvku+pisbZCg==",
+  "dgSpecHash": "O0UWBzPJm5ha8EXy1h9TgC1iwTErtAs48Ru/3shJNN2hlCbmCQYFG4KuCktopdYm5niKC6DXuphBTil2JdSHJA==",
   "success": true,
-  "projectFilePath": "C:\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas.Tests\\ListaTarefas.Tests.csproj",
+  "projectFilePath": "C:\\Projetos\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas.Tests\\ListaTarefas.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mythalie.sandretti\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\mythalie.sandretti\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

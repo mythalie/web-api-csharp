@@ -2062,11 +2062,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas\\ListaTarefas.csproj",
+      "projectUniqueName": "C:\\Projetos\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas\\ListaTarefas.csproj",
       "projectName": "ListaTarefas",
-      "projectPath": "C:\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas\\ListaTarefas.csproj",
+      "projectPath": "C:\\Projetos\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas\\ListaTarefas.csproj",
       "packagesPath": "C:\\Users\\mythalie.sandretti\\.nuget\\packages\\",
-      "outputPath": "C:\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas\\obj\\",
+      "outputPath": "C:\\Projetos\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mythalie.sandretti\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f74R27rO0/hXM5MAoa0OyXOJrujzVS1zbp0MoTWz3XLLqGyI/m4ZuciWxB7vcFcGfS2k3+0b2WdGCrnLR69Haw==",
+  "dgSpecHash": "S2AnVRIOgc5Uykkl8Oe+glBHp5jtsU13hAgpJwPfwFBLyA5w0ziuk29rcKYnATtxJKQrRZ2sREj9GVP7/8RlQA==",
   "success": true,
-  "projectFilePath": "C:\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI\\PrimeiraWebAPI.csproj",
+  "projectFilePath": "C:\\Projetos\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI\\PrimeiraWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mythalie.sandretti\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mythalie.sandretti\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

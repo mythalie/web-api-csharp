@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI\\PrimeiraWebAPI.csproj": {}
+    "C:\\Projetos\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI\\PrimeiraWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI\\PrimeiraWebAPI.csproj": {
+    "C:\\Projetos\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI\\PrimeiraWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI\\PrimeiraWebAPI.csproj",
+        "projectUniqueName": "C:\\Projetos\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI\\PrimeiraWebAPI.csproj",
         "projectName": "PrimeiraWebAPI",
-        "projectPath": "C:\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI\\PrimeiraWebAPI.csproj",
+        "projectPath": "C:\\Projetos\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI\\PrimeiraWebAPI.csproj",
         "packagesPath": "C:\\Users\\mythalie.sandretti\\.nuget\\packages\\",
-        "outputPath": "C:\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI\\obj\\",
+        "outputPath": "C:\\Projetos\\Treinamento C#\\web_api_csharp\\PrimeiraWebAPI\\PrimeiraWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mythalie.sandretti\\AppData\\Roaming\\NuGet\\NuGet.Config",

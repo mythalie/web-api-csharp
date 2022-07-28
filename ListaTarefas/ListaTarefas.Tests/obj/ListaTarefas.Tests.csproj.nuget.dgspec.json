@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas.Tests\\ListaTarefas.Tests.csproj": {}
+    "C:\\Projetos\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas.Tests\\ListaTarefas.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas.Tests\\ListaTarefas.Tests.csproj": {
+    "C:\\Projetos\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas.Tests\\ListaTarefas.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas.Tests\\ListaTarefas.Tests.csproj",
+        "projectUniqueName": "C:\\Projetos\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas.Tests\\ListaTarefas.Tests.csproj",
         "projectName": "ListaTarefas.Tests",
-        "projectPath": "C:\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas.Tests\\ListaTarefas.Tests.csproj",
+        "projectPath": "C:\\Projetos\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas.Tests\\ListaTarefas.Tests.csproj",
         "packagesPath": "C:\\Users\\mythalie.sandretti\\.nuget\\packages\\",
-        "outputPath": "C:\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas.Tests\\obj\\",
+        "outputPath": "C:\\Projetos\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mythalie.sandretti\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas\\ListaTarefas.csproj": {
-                "projectPath": "C:\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas\\ListaTarefas.csproj"
+              "C:\\Projetos\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas\\ListaTarefas.csproj": {
+                "projectPath": "C:\\Projetos\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas\\ListaTarefas.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas\\ListaTarefas.csproj": {
+    "C:\\Projetos\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas\\ListaTarefas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas\\ListaTarefas.csproj",
+        "projectUniqueName": "C:\\Projetos\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas\\ListaTarefas.csproj",
         "projectName": "ListaTarefas",
-        "projectPath": "C:\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas\\ListaTarefas.csproj",
+        "projectPath": "C:\\Projetos\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas\\ListaTarefas.csproj",
         "packagesPath": "C:\\Users\\mythalie.sandretti\\.nuget\\packages\\",
-        "outputPath": "C:\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas\\obj\\",
+        "outputPath": "C:\\Projetos\\Treinamento C#\\web_api_csharp\\ListaTarefas\\ListaTarefas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mythalie.sandretti\\AppData\\Roaming\\NuGet\\NuGet.Config",
